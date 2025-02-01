@@ -1,6 +1,8 @@
 ## Hi there 👋
-
-<!--
+ 🔭 I’m currently studying in RSET 
+ 🌱 I’m currently learning C
+  ⚡ Fun fact: Gamer
+<!-- 
 **Alan7906/Alan7906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
